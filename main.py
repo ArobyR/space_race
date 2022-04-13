@@ -154,8 +154,8 @@ class Game:
         # screen.fill(BLACK)
         screen.blit(background, [0, 0])
 
-        screen.blit(self.player1_counter, (56, 5))
-        screen.blit(self.player2_counter, ((SCREEN_WIDTH - 200), 5))
+        screen.blit(self.player1_counter, (56, 10))
+        screen.blit(self.player2_counter, ((SCREEN_WIDTH - 200), 10))
 
         if not self.game_over:
             self.all_sprite_list.draw(screen)
