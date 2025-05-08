@@ -2,6 +2,8 @@
 
 It's a simple space race inspired in the arcade retro game. [Image](https://upload.wikimedia.org/wikipedia/en/0/05/Space_Race_gameplay.png)
 
+Assets credit: [Kenney.nl](https://kenney.nlnl/)
+
 ## Screenshot
 !["Screenshot"](./resources/images/screenshot.png)
 
